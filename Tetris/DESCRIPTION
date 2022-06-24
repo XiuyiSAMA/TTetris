@@ -1,0 +1,32 @@
+Package: Tetris
+Title: What the Package Does (One Line, Title Case)
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Tingting",
+           family = "Hou",
+           role = c("aut", "cre"),
+           email = "tingtinghou@ufl.edu",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Tetris Game
+Depends: shinydashboard, plotly, shiny, ggplot2, shinyjs
+License: What license it uses
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.1
+Suggests: knitr, rmarkdown
+VignetteBuilder: knitr
+RemoteType: github
+RemoteHost: api.github.com
+RemoteRepo: Tetris
+RemoteUsername: TingtHou
+RemoteRef: HEAD
+RemoteSha: d772c8d26b70af146eb0f2d28529abe15ee86c05
+GithubRepo: Tetris
+GithubUsername: TingtHou
+GithubRef: HEAD
+GithubSHA1: d772c8d26b70af146eb0f2d28529abe15ee86c05
+NeedsCompilation: no
+Packaged: 2022-06-23 09:46:38 UTC; chenhw
+Author: Tingting Hou [aut, cre] (YOUR-ORCID-ID)
+Maintainer: Tingting Hou <tingtinghou@ufl.edu>
+Built: R 4.0.3; ; 2022-06-23 09:46:39 UTC; windows

@@ -1,0 +1,20 @@
+GetIndexList            Get index of colored square in a tetromino
+GetScore                Win points
+GetType                 Shape tetromino
+GetTypeMatrix           Write tetromino information
+Getinittetromino        Generate tetromino
+GetxyforBoxes           Get location
+GnrCubes                Generate tetromino
+MoveDown                Move right
+MoveLeft                Move left
+MoveRight               Move right
+UpdateTable             Update location of tetriminos
+checkNext3Block_y       Check tetrominos moving towards
+checkNextBlock_x        Check tetrominos moving right/left
+checkNextBlock_y        Check tetrominos moving towards
+drawTable               Backgroup initialization
+endGame                 End Game
+launchGame              Launch the Game
+rotate                  Rotate the dropping tetromino.
+totalMatrix             Generate backgroud matrix
+updateBackGround        Update location of tetriminos
